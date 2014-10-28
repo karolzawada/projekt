@@ -1,0 +1,28 @@
+Program pozwala obliczyæ prêdkoœæ satelity w zale¿noœci od odleg³oœci od ziemi. Pozwala obliczyæ si³y dzia³aj¹ce na satelitê, czas jaki zajmie jej okr¹¿enie ziemi oraz prêdkoœæ k¹tow¹. Przechowuje dane.
+
+
+
+
+Lista wymagañ.
+
+Wymagania:
+I stopnia:
+- system pozwala wprowadziæ dane o odleg³oœci w km. Satelity od Ziemi przez u¿ytkownika (funkcjonalne);
+- system oblicza si³y dzia³aj¹ce na satelitê w oparciu o podan¹ odleg³oœæ (funkcjonalne);
+- system oblicza czas jaki zajmuje satelicie okr¹¿enie Ziemi (funkcjonalne);
+- system oblicza prêdkoœæ k¹tow¹ satelity (funkcjonalne);
+
+	II stopnia:
+		- system wyœwietla wyniki po obliczeniu (funkcjonalne);
+- system pozwala sprawdziæ kiedy satelita bêdzie w tym samym miejscu           (funkcjonalne);
+		- system zapisuje wyniki do pliku (funkcjonalne);
+		- system pozwala przegl¹daæ stare wyniki u¿ytkownikowi (funkcjonalne);
+
+	III stopnia:
+		- system pozwala na wprowadzenie danych w okienku z klawiatury (niefunkcjonalne);
+		- system wyœwietla wynik w okienku (niefunkcjonalne)
+
+
+- system - oprogramowanie 
+- satelita – hipotetyczny obiekt potrzebny do obliczeñ
+
